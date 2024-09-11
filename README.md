@@ -1,8 +1,5 @@
 # Youtube_playlist_downloader
- Here is a `README.md` file that includes all instructions for setting up and running the Flask YouTube playlist downloader project locally. This file covers the steps to set up a virtual environment, install dependencies, and run the application.
-
-### `README.md`
-
+ 
 ```markdown
 # YouTube Playlist Downloader
 
