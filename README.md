@@ -149,12 +149,3 @@ This project is licensed under the MIT License.
 This `README.md` should provide a clear step-by-step guide for setting up and running the project locally. Let me know if you need further assistance or modifications!
 
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('smt2024', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support Me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
